@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="curated-ai-workflow-resources-social" src="https://github.com/user-attachments/assets/942ab830-3d6e-4a6b-857f-c0bc3757211a" />
+
 # Curated AI Workflow Resources
 
 A small, curated collection of resources for working effectively with AI coding
