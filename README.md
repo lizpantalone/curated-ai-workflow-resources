@@ -31,6 +31,12 @@ follow on every task:
 You can also download it directly from
 [lizpantalone.com/resources](https://lizpantalone.com/resources).
 
+## Work with Liz
+
+Want to hire Liz to help your team adopt AI the right way — shipping faster
+without piling up tech debt? That's exactly what I do, from bespoke builds to
+team coaching and training. **[Get in touch at lizpantalone.com](https://lizpantalone.com).**
+
 ## License
 
 [MIT](./LICENSE) — free to use, adapt, and share. Attribution appreciated but
