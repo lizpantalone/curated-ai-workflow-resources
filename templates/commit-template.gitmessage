@@ -1,0 +1,29 @@
+# <type>(<scope>): <subject>   ── 50 chars max, imperative mood ─┐
+#                                                                    │
+# ↑ subject line above. Leave the blank line below it in place.      │
+#                                                                    │
+# Body: explain WHAT and WHY (not how). Wrap at 75 chars. ───────────┘
+#
+#
+# Footer: reference the ticket/issue this commit belongs to.
+# Refs: PROJ-123      (or)      Closes #123
+#
+# ─────────────────────────────────────────────────────────────────────
+# Conventional Commits + a few house rules:
+#
+#   type    one of: feat, fix, docs, style, refactor, perf, test,
+#           build, ci, chore, revert
+#   scope   optional, e.g. feat(auth): ...
+#   !       mark breaking changes: feat!: ...  (or a BREAKING CHANGE: footer)
+#
+#   • Subject line: 50 characters max, imperative ("add", not "added").
+#   • Body / footer lines: wrap at 75 characters.
+#   • Every commit references a ticket/issue. If none exists, create one
+#     (and describe what's changing and why — it's future-you's context).
+#   • Keep commits small but substantive. Fold trivial changes (typos,
+#     whitespace) into an adjacent, more meaningful commit.
+#
+# Install:
+#   git config --global commit.template ~/.gitmessage   # after copying this file there
+#
+# From: https://github.com/lizpantalone/curated-ai-workflow-resources
